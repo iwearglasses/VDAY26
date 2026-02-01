@@ -63,8 +63,8 @@
     <p>Click the right button and you might get what you want!</p>
 
     <div class="button-container">
-        <button class="valentine-btn" onclick="yesbuttonAction()">Yes Button</button>
-        <button class="valentine-btn" onclick="nobuttonAction()">No Button</button>
+        <button class="valentine-btn" onclick="yesbuttonAction()">Yes </button>
+        <button class="valentine-btn" onclick="nobuttonAction()">No </button>
     </div>
 
     <script>
