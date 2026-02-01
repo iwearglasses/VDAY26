@@ -49,22 +49,22 @@
     <p>Click the right button and you might get what you want.!</p>
 
     <div class="button-container">
-        <!-- Button 1 -->
+        <!-- Yes Button  -->
         <button class="valentine-btn" onclick="button1Action()">Button 1</button>
 
-        <!-- Button 2 -->
+        <!-- No Button  -->
         <button class="valentine-btn" onclick="button2Action()">Button 2</button>
     </div>
 
     <script>
         function button1Action() {
-            alert("You pressed Button 1! Slow kissies 💋");
+            alert("You pressed Yes! Slow kissies 3xs/wk 🍆🫦");
             // You can replace alert with any custom action, like redirecting:
             // window.location.href = "https://example.com";
         }
 
         function button2Action() {
-            alert("You pressed Button 2! 🫦🍆");
+            alert("You pressed No! I guess i'll look and not touch.");
             // Custom action for button 2
         }
     </script>
