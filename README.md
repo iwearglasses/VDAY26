@@ -19,7 +19,7 @@
 
         p {
             font-size: 1.2em;
-            color: #333;
+            color: #D90368;
         }
 
         .button-container {
