@@ -13,7 +13,7 @@
         }
 
         h1 {
-            color: #FF4B5C;
+            color: #F7B2BD;
             font-size: 3em;
         }
 
