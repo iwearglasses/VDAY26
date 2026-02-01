@@ -27,7 +27,7 @@
         }
 
         .valentine-btn {
-            background-color: #FF4B5C;
+            background-color: #E34A6F;
             color: white;
             border: none;
             padding: 15px 30px;
@@ -50,22 +50,22 @@
 
     <div class="button-container">
         <!-- Yes Button  -->
-        <button class="valentine-btn" onclick="button1Action()">Button 1</button>
+        <button class="valentine-btn" onclick="yesbuttonAction()">Yes Button </button>
 
         <!-- No Button  -->
-        <button class="valentine-btn" onclick="button2Action()">Button 2</button>
+        <button class="valentine-btn" onclick="nobuttonAction()">No Button </button>
     </div>
 
     <script>
-        function button1Action() {
+        function yesbuttonAction() {
             alert("You pressed Yes! Slow kissies 3xs/wk 🍆🫦");
             // You can replace alert with any custom action, like redirecting:
             // window.location.href = "https://example.com";
         }
 
-        function button2Action() {
+        function nobuttonAction() {
             alert("You pressed No! I guess i'll look and not touch.");
-            // Custom action for button 2
+            // Custom action for no button 
         }
     </script>
 </body>
