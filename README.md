@@ -55,7 +55,7 @@
         <button class="valentine-btn" onclick="nobuttonAction()">No Button </button>
     </div>
    
-    floatingEmojis: {
+    {floatingEmojis: {
         hearts: ['❤️', '🍆', '💝', '🫦', '💓'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },  
