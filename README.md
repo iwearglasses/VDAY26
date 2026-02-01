@@ -47,13 +47,13 @@ head>
 </head>
 <body>
     <h1>Ready for Fellatio February?! 💖</h1>
-    <p>Click the right button and you might get what you want.!</p>
+    <p>Click the right button and you might get what you want!</p>
 
     <div class="button-container">
-        <!-- Button 1 -->
+        <!-- SI! -->
         <button class="valentine-btn" onclick="button1Action()">Button 1</button>
 
-        <!-- Button 2 -->
+        <!-- NO. -->
         <button class="valentine-btn" onclick="button2Action()">Button 2</button>
     </div>
 
