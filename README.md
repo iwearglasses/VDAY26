@@ -54,7 +54,13 @@
         <!-- No Button  -->
         <button class="valentine-btn" onclick="nobuttonAction()">No Button </button>
     </div>
-
+    
+// Floating emojis that appear in the background
+    // Find more emojis at: https://emojipedia.org
+    floatingEmojis: {
+        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
+        bears: ['🧸', '🐻']                       // Cute bear emojis
+    },  
     <script>
         function yesbuttonAction() {
             alert("You pressed Yes! Slow kissies 3xs/wk 🍆🫦");
